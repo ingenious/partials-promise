@@ -1,0 +1,24 @@
+{
+    "name": "partials-promise",
+    "engine": "node >= v0.12.7",
+    "author": {
+        "name": "Stephen Giles",
+        "company": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "description": "Read partials in a set of directories and register them with Handlebars",
+    "version": "0.0.2",
+    "main": "partialsPromise.js",
+    "dependencies": {
+        "fs-extra": "~0.23.1" ,
+        "underscore":"~1.8.3"
+    },
+    "devDependencies": {
+        
+        
+    },
+    "readmeFilename": "README.md"
+}
