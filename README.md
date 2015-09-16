@@ -3,11 +3,9 @@ Create a set of Handlbars pre-compiled partials based on an array of directories
 
 ```
     $ npm install ingenious/partials-promise
-    
 ```
 ```
     var partialsPromise = require('partials-promise');
-    
 ```
 ##API
 
