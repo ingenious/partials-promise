@@ -1,5 +1,5 @@
 # partials-promise
-Create a set of Handlbars pre-compiled partials based on an array of directories
+Create a set of Handlebars pre-compiled partials based on an array of directories
 
 ```
     $ npm install ingenious/partials-promise
