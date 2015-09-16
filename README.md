@@ -15,7 +15,7 @@ Create a set of Handlbars pre-compiled partials based on an array of directories
   
   Return a Promise which is fulfilled with an array of matching templates.
   
-  If the same filename occurs in more than one diretory then the registered partial will be replaced,
+  If the same filename occurs in more than one directory then the registered partial will be replaced,
   so the directories should be in order of increasing preference.
 
 ## Example
