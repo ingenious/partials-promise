@@ -9,7 +9,7 @@ Create a set of Handlbars pre-compiled partials based on an array of directories
 ```
 ##API
 
-  ***partialsPromise(array_of_paths, base_directory, Handlebars)**;
+  ***partialsPromise(array_of_paths, base_directory, Handlebars)***;
   
   Partial references in Handlebars are template filenames without extension
   
